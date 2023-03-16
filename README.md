@@ -1,11 +1,17 @@
 Java Email Client
+
 A user-friendly and secure email client application developed using Java Swing for the user interface and JavaMail API for email communication.
 
 Features:
+
 Email Composition: Compose emails with ease, including recipient address, subject line, and message body.
+
 Recipient Validation: Validate recipient email addresses using regular expressions to prevent sending emails to invalid addresses.
+
 User Authentication: Authenticate the user with their email provider using secure TLS connections and SMTP protocol.
+
 Error Handling: Display informative error messages in case of missing or incorrect user input.
+
 Cross-platform: Compatible with various platforms and operating systems, thanks to the flexibility of Java.
 
 Usage:
